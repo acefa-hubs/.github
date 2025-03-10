@@ -1,5 +1,3 @@
-## Hi there 👋
-
 We are the **Australian Consortium for Epidemic Forecasting & Analytics**. Our goal is to support the timely, effective response to epidemic diseases in Australia through real-time data analytics, modelling, and forecasting.
 
 Our key activities:
